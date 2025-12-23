@@ -1,8 +1,8 @@
-# 🕳 The Cycle Never Ends
+# Never ending cycle
 
 ##  Overview
 
-**The Cycle Never Ends** is a first-person psychological horror game focused on trauma, isolation, and the horrifying comfort of routine. Players wake up each day in a familiar setting that slowly begins to break, distort, and unravel with each repetition. As days pass, the illusion of life fades and a terrifying realization sets in: you're not just stuck in a loop — you're being punished by it.
+**Never ending Cycle** is a first-person psychological horror game focused on trauma, isolation, and the horrifying comfort of routine. Players wake up each day in a familiar setting that slowly begins to break, distort, and unravel with each repetition. As days pass, the illusion of life fades and a terrifying realization sets in: you're not just stuck in a loop you're being punished by it.
 
 This game is part of a larger narrative universe connected with eight other horror titles, but it stands strong as a deeply personal story of grief, memory, and consequence.
 
@@ -17,10 +17,10 @@ This game is part of a larger narrative universe connected with eight other horr
   No cheap jump scares. Just existential dread, surreal events, and the sickening feeling of remembering something you'd rather forget.
 
 - **Dynamic Memory System**  
-  Your choices, actions, and emotional responses carry over — subtly changing the world and dialogues.
+  Your choices, actions, and emotional responses carry over subtly changing the world and dialogues.
 
 - **Psychological Puzzle Mechanics**  
-  Solve problems born from guilt, regret, and denial. You're not just piecing together facts — you're confronting truths.
+  Solve problems born from guilt, regret, and denial. You're not just piecing together facts, you're confronting truths.
 
 - **Multiple Endings**  
   Reach different fates based on how you respond to the loop: acceptance, resistance, escape, or surrender.
@@ -49,7 +49,7 @@ This game is part of a larger narrative universe connected with eight other horr
 ##  Main Character
 
 **You**  
-Name unknown. Backstory vague. But you’re someone who lived through something horrible — and now you're living _in_ it. The protagonist is silent, but their thoughts, memories, and regrets are scattered throughout the world.
+Name unknown. Backstory vague. But you’re someone who lived through something horrible and now you're living _in_ it. The protagonist is silent, but their thoughts, memories, and regrets are scattered throughout the world.
 
 ---
 
@@ -60,7 +60,7 @@ Name unknown. Backstory vague. But you’re someone who lived through something 
 - **Evening** – Reality breaks apart; nightmares bleed into the world.
 - **Night** – A moment of confrontation, memory playback, or psychological collapse. Then… reset.
 
-Over time, the structure collapses — routines disappear, scenes fragment, and loops corrupt.
+Over time, the structure collapses routines disappear, scenes fragment, and loops corrupt.
 
 ---
 
@@ -74,7 +74,7 @@ Over time, the structure collapses — routines disappear, scenes fragment, and 
 ##  Status
 
 > **Development Stage**: Pre-production  
-> **Story**: 40% finalized  
+> **Story**: 20% finalized  
 > **Mechanics**: Concept phase  
 > **Audio/Music**: Early composition stage  
 > **Visuals**: Style still undecided (leaning toward surreal/minimalist or VHS-distorted realism)
