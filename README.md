@@ -29,9 +29,7 @@ This game is part of a larger narrative universe connected with eight other horr
 
 ##  Estimated Playtime
 
-10–15 hours total  
-(3–5 hours for a single core route; full completion and exploration of all endings requires multiple loops)
-
+5–10 hours total  
 ---
 
 ##  Themes
